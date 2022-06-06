@@ -1,0 +1,360 @@
+C:\Users\zit22\source\repos\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.exe
+C:\Users\zit22\source\repos\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.deps.json
+C:\Users\zit22\source\repos\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.json
+C:\Users\zit22\source\repos\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.dev.json
+C:\Users\zit22\source\repos\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.dll
+C:\Users\zit22\source\repos\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.pdb
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.AssemblyReference.cache
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Form1.resources
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.GenerateResource.cache
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfoInputs.cache
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfo.cs
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.CoreCompileInputs.cache
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.dll
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.pdb
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.genruntimeconfig.cache
+C:\Users\zit22\source\repos\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Properties.Resources.resources
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.exe
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.deps.json
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.json
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.dev.json
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.pdb
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.AssemblyReference.cache
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Form1.resources
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Properties.Resources.resources
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.GenerateResource.cache
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfoInputs.cache
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfo.cs
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.CoreCompileInputs.cache
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.dll
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.pdb
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.genruntimeconfig.cache
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Scripting.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Interop.Scripting.dll
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Interop.Scripting.dll
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.ResolveComReference.cache
+D:\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.CopyComplete
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.exe
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.deps.json
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.json
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.dev.json
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.pdb
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Interop.Scripting.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.AssemblyReference.cache
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Interop.Scripting.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.ResolveComReference.cache
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Form1.resources
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Properties.Resources.resources
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.GenerateResource.cache
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfoInputs.cache
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfo.cs
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.CoreCompileInputs.cache
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.CopyComplete
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.dll
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.pdb
+C:\Users\zit22\OneDrive\Рабочий стол\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.genruntimeconfig.cache
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.exe
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.deps.json
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.json
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.dev.json
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.pdb
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Scripting.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\bin\Debug\netcoreapp3.1\Interop.Scripting.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.AssemblyReference.cache
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Interop.Scripting.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.ResolveComReference.cache
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Form1.resources
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Properties.Resources.resources
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.GenerateResource.cache
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfoInputs.cache
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfo.cs
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.CoreCompileInputs.cache
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.CopyComplete
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.dll
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.pdb
+C:\Games\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.genruntimeconfig.cache
+X:\Разработка кода информационных систем\метро_несколько\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csprojAssemblyReference.cache
+X:\Разработка кода информационных систем\метро_несколько\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Interop.Scripting.dll
+X:\Разработка кода информационных систем\метро_несколько\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.ResolveComReference.cache
+X:\Разработка кода информационных систем\метро_несколько\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.dll
+X:\Разработка кода информационных систем\метро_несколько\Метро25\Метро25\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.pdb
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.exe
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.deps.json
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.json
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.runtimeconfig.dev.json
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Метро2.pdb
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Scripting.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsqlite3.so
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sqlite3.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sqlite3.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Games\Метро2\Метро2\bin\Debug\netcoreapp3.1\Interop.Scripting.dll
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.AssemblyReference.cache
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Interop.Scripting.dll
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.ResolveComReference.cache
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Form1.resources
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.Properties.Resources.resources
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.GenerateResource.cache
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfoInputs.cache
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.AssemblyInfo.cs
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.CoreCompileInputs.cache
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.csproj.CopyComplete
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.dll
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.pdb
+C:\Games\Метро2\Метро2\obj\Debug\netcoreapp3.1\Метро2.genruntimeconfig.cache
